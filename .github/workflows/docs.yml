@@ -28,11 +28,13 @@ jobs:
           installer-parallel: true
       - name: 📦 Install dependencies
         run: |
+          cd docs
           poetry run pip install --no-deps --upgrade pip
-          poetry install --with dev --no-interaction --no-ansi
+          poetry install --no-root --only main --no-interaction --no-ansi
       - name: 📦 Build the documentation
-        working-directory: ./docs
-        run: poetry run mkdocs build
+        run: |
+          cd docs
+          poetry run mkdocs build
       - name: 📬 Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
