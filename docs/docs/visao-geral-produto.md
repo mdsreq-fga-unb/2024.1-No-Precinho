@@ -14,7 +14,7 @@ oferecendo opções mais econômicas para os consumidores.
 
 ## 🐟 Diagrama de Espinha de Peixe (Ishikawa)
 
-### Métodos: 
+### 📚 Métodos: 
 
 * Falta de procedimentos para promoções de produtos próximos ao vencimento;
 * Inexistência de sistema para gerenciar inventário de forma eficiente;
