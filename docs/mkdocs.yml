@@ -1,9 +1,43 @@
 site_name: No Precinho
 
-theme: 
-  name: material
+repo_name: "2024.1-No-Precinho"
+
+repo_url: https://github.com/mdsreq-fga-unb/2024.1-No-Precinho
+
+theme:
+  name: 'material'
+  nav_style: dark
   language: pt-BR
-  palette: 
-    primary: dark blue
-  font: 
-    text: Roboto
+  logo: 'imagens/brasao.png'
+  favicon: 'imagens/favico.ico'
+
+  icon:
+    repo: fontawesome/brands/github
+  
+
+  palette:
+    - scheme: slate
+      primary: 'indigo' # Um azul escuro como substituto para o preto
+      accent: 'light blue' # Mantém o azul claro para o destaque
+      toggle:
+        icon: 'material/toggle-switch-off-outline'
+        name: 'Deslize para o modo claro'
+    
+    - scheme: default
+      primary: 'blue' # Um azul padrão que pode ser adequado para o azul escuro
+      accent: 'light blue' # Mantém o azul claro para o destaque
+      toggle:
+        icon: 'material/toggle-switch'
+        name: 'Deslize para o modo escuro'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+
+
+nav:
+  - 🏠 Pagina inicial: index.md
+  - 🌐 Liga do Código: faccao.md
+  - 🚀 Visão Geral do Produto: visao-geral-produto.md
+  - 🗃 Visão Geral do Projeto: visao-geral-projeto.md
+  - ⚙️ Processo de Desenvolvimento de Software:  pds.md
+  - 📚 Lições Aprendidas: licoes-aprendidas.md
