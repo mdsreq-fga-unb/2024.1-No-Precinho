@@ -1,0 +1,24 @@
+{
+  "CHECKS": {
+    "prefixes": [
+      "[build] ",
+      "[ci] ",
+      "[docs] ",
+      "[feature request] ",
+      "[bug fix] ",
+      "[performance] ",
+      "[refactor] ",
+      "[style] ",
+      "[test] ",
+      "[chore] ",
+      "[revert] ",
+      "[release] ",
+      "[draft] ",
+      "[wip] "
+    ]
+  },
+  "MESSAGES": {
+    "error": "✅ PR title is invalid",
+    "success": "❌ PR title is valid"
+  }
+}
