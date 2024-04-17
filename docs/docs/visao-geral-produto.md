@@ -109,3 +109,14 @@ vendidos e melhorar a gestão do estoque.
 **Aumentar a conscientização sobre o desperdício de alimentos:** o projeto visa aumentar a conscientização sobre o desperdício de alimentos, destacando a importância da redução do desperdício na indústria de alimentos e incentivando práticas mais sustentáveis por parte dos varejistas alimentícios e consumidores.
 
 ## 🔧 Tecnologias a serem Utilizadas
+
+| Categoria  | Tecnologias  |
+| ---------- | ------------ |
+| Linguagem de programação      | TypeScript        |
+| Framework de front-end      | React Native        |
+| Back-end      | Python (Django)        |
+| Banco de dados      | PostgreSQL        |
+| Hospedagem      | Heroku        |
+| Prototipagem      | Figma        |
+| Diagramas      | draw.io        |
+| Reuniões      | Discord        |
