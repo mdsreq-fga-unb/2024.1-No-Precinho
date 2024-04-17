@@ -20,7 +20,7 @@ oferecendo opções mais econômicas para os consumidores.
 * Inexistência de sistema para gerenciar inventário de forma eficiente;
 * Métodos inadequados de previsão de demanda.
 
-### Mão de obra:
+### 💪 Mão de obra:
 
 * Falta de treinamento dos funcionários para identificar, manusear e
   comercializar produtos próximos da data de vencimento de forma segura e
@@ -28,24 +28,24 @@ oferecendo opções mais econômicas para os consumidores.
 * Falta de atribuição de responsabilidades específicas para garantir o
   cumprimento das práticas de redução de desperdício.
 
-### Material:
+### 🪵 Material:
 
 * Falta de práticas de armazenamento eficientes para evitar danos e
   deterioração dos alimentos;
 * Qualidade variável dos produtos recebidos.
 
-### Medida: 
+### 📃 Medida: 
 
 * Uso inadequado de dados para previsão de vendas;
 * Medidas imprecisas de desempenho de vendas;
 * Falta de análise de dados sobre produtos que frequentemente sobram.
 
-### Meio ambiente:
+### 🐼 Meio ambiente:
 
 * Influência das condições climáticas na demanda por certos produtos;
 * Impacto das tendências de consumo na sobreprodução.
 
-### Máquina: 
+### 🦾 Máquina: 
 
 * Falhas no sistema de gestão de estoque;
 * Sistemas de ponto de venda desatualizados;
@@ -53,7 +53,7 @@ oferecendo opções mais econômicas para os consumidores.
 
 ## 🏆 Declaração de Posição do Produto
 
-### Qual é o produto que é proposto a se desenvolver?
+### 🗽 Qual é o produto que é proposto a se desenvolver?
 
 Estamos desenvolvendo um aplicativo mobile chamado "No precinho" que permite os
 varejistas alimentícios se cadastrarem e divulgar ofertas de alimentos próximos
@@ -61,7 +61,7 @@ varejistas alimentícios se cadastrarem e divulgar ofertas de alimentos próximo
 desses produtos com desconto, reduzindo o desperdício de alimentos e promovendo
 o consumo consciente.
 
-### O que torna este produto diferente dos seus concorrentes?
+### 🌎 O que torna este produto diferente dos seus concorrentes?
 
 O "No precinho" se diferencia por se concentrar exclusivamente na problemática
 do desperdício de alimentos em supermercados, oferecendo uma solução direta que
@@ -72,7 +72,7 @@ caixas surpresas de vários produtos randômicos a um preço reduzido, o nosso
 produto permitirá a visualização dos produtos que os clientes decidirem
 comprar, ampliando a liberdade de compra e a segurança contra alergias.
 
-### Quem são os usuários-alvo e clientes do produto?
+### 👨‍👩‍👧‍👦 Quem são os usuários-alvo e clientes do produto?
 
 Consumidores que procuram economizar em suas despesas com alimentos sem
 comprometer a qualidade, o nosso aplicativo oferece uma plataforma para
@@ -81,7 +81,7 @@ combater o desperdício de alimentos, e varejistas de alimentos que desejam
 aumentar suas vendas, além de clientes que buscam produtos de qualidade com
 descontos significativos.
 
-### Por que os clientes deveriam utilizar/comprar este produto?
+### 💵 Por que os clientes deveriam utilizar/comprar este produto?
 
 Os clientes deveriam utilizar o "No precinho" porque oferece uma maneira
 conveniente e econômica de adquirir produtos com desconto, enquanto contribuem
