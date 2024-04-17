@@ -1,1 +1,9 @@
 site_name: No Precinho
+
+theme: 
+  name: material
+  language: pt-BR
+  palette: 
+    primary: dark blue
+  font: 
+    text: Roboto
