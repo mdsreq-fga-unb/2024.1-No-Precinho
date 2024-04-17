@@ -2,6 +2,17 @@
 
 ## 🔨 Organização do Projeto
 
+A equipe de desenvolvimento de software é responsável pela criação e implementação do aplicativo móvel, garantindo a funcionalidade e segurança do sistema. O time de design trabalha na criação de uma interface intuitiva e atraente para o usuário, garantindo uma experiência de usuário positiva. O gerenciamento de projeto é conduzido pela equipe de gerenciamento, que coordena as atividades, monitora o progresso e mantém a comunicação entre todas as partes interessadas. A equipe de testes e qualidade é encarregada de garantir a qualidade do produto, identificando e corrigindo quaisquer problemas ou falhas.
+
+| Papel                 | Atribuições                                                                                                                   | Responsável        | Participantes |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- |
+| Desenvolvedor         | Codificar o produto, codificar testes unitários, realizar refatoração e implementação do projeto.                             | Caio Alexandre     | Artur Bartz, Danilo Melo, Gabriela Araujo, Miguel de Oliveira, Patrícia da Silva e Rodrigo Bezerra.|
+| Dono do Produto       | Identificar requisitos, validar entregas, fornecer feedback e aprovar iterações.                                              | Artur Bartz        |               ____ |
+| Analista de Qualidade | Garantir a qualidade do produto, garantir o cumprimento do conceito de pronto, realizar inspeções de código.                  | Gabriela Araujo    | Artur Bartz, Caio Alexandre, Danilo Melo, Miguel de Oliveira, Patrícia da Silva e Rodrigo Bezerra.|
+| Cliente               | Fornecer feedback e orientação sobre os requisitos do produto, validação do produto final, fornecendo aprovação e aceitação.  | Eduardo Sandes     | ChatGPT|
+| Designer              | Design de interface do usuário, criação de wireframes, mockups e protótipos.                                                  | Patrícia da Silva  | Artur Bartz, Caio Alexandre, Danilo Melo, Gabriela Araujo, Miguel de Oliveira e Rodrigo Bezerra.|
+| Scrum Master          | Garantir que a equipe Scrum compreenda e siga os princípios e práticas do Scrum                                               | Miguel de Oliveira |   ____ |
+
 ## 📃 Planejamento de Fases
 
 O planejamento detalhado das sprints visa garantir uma abordagem ágil e

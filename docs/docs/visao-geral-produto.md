@@ -102,4 +102,10 @@ vendidos e melhorar a gestão do estoque.
 
 ## 🎯 Objetivos do Produto
 
+### 1️⃣ Objetivo Principal
+**Reduzir o desperdício de alimentos de varejistas alimentícios:** desenvolver um aplicativo mobile que conecta varejistas alimentícios a consumidores, oferecendo ofertas de alimentos próximos à data de vencimento. O aplicativo visa facilitar a venda desses produtos, ajudando os supermercados a reduzir o desperdício de alimentos.
+### 2️⃣ Objetivos Secundários
+**Promover a economia dos consumidores:** o projeto visa promover a economia dos consumidores, oferecendo uma ampla variedade de produtos com desconto e facilitando uma experiência de compra conveniente e flexível através do aplicativo.
+**Aumentar a conscientização sobre o desperdício de alimentos:** o projeto visa aumentar a conscientização sobre o desperdício de alimentos, destacando a importância da redução do desperdício na indústria de alimentos e incentivando práticas mais sustentáveis por parte dos varejistas alimentícios e consumidores.
+
 ## 🔧 Tecnologias a serem Utilizadas
