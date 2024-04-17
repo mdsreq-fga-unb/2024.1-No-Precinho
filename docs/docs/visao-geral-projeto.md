@@ -45,7 +45,6 @@ qualidade ao longo do projeto.
 | Mudança de Escopo      | Formulação de novos requisitos | Média         | Redistribuição das atividades |
 | Falha de Equipamento   | Falta de energia               | Baixa         | Compensação de horas          |
 | Requisitos não viáveis | Desejos do cliente             | Baixa         | Reuniões com o cliente        |
-|                        |                                |               |                               |
 
 ## 🔗 Critérios de Replanejamento
 Acontecerá o replanejamento do projeto caso ocorra:
