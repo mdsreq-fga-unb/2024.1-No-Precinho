@@ -97,7 +97,7 @@ vendidos e melhorar a gestão do estoque.
 | Quem                        | Quem enfrenta o desafio de gerenciar produtos próximos da data de vencimento e quem deseja economizar em suas compras de supermercado sem comprometer a qualidade. |
 | O “No precinho”             | É um serviço de tecnologia de informação e comunicação (TIC), especificamente um aplicativo mobile.                                                                |
 | Que                         | Conecta as duas partes interessadas.                                                                                                                               |
-| Ao contrário                | Ao contrário do aplicativo “Food to Save”...                                                                                                                       |
+| Ao contrário                | Ao contrário do aplicativo "Food to Save"...                                                                                                                       |
 | Nosso produto               | O nosso produto permitirá a visualização dos produtos que os clientes decidirem comprar.                                                                           |
 
 ## 🎯 Objetivos do Produto
