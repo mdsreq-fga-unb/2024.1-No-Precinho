@@ -12,7 +12,7 @@ uma solução que possa conectar supermercados a consumidores interessados em
 produtos próximos da data de vencimento, reduzindo o desperdício de alimentos e
 oferecendo opções mais econômicas para os consumidores.
 
-## Diagrama de espinha de Peixe (ishikawa)
+## 🐟 Diagrama de Espinha de Peixe (Ishikawa)
 
 ### Métodos: 
 
