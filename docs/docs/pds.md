@@ -28,12 +28,12 @@ A metodologia escolhida é uma combinação de **Scrum** com **Rapid Application
 | Nome da Atividade | Método | Ferramenta | Entrega |
 |-------------------|--------|------------|---------|
 | Elicitação e Descoberta | Entrevistas com stakeholders e sessões de brainstorming | Teams | Uma lista de requisitos coletados |
-| Análise e Consenso | Análise de requisitos e votação | Discord ou Teams e Goggle doc e Kanban board (Git Projects) | MVP |
+| Análise e Consenso | Análise de requisitos e votação | Discord ou Teams e Google Docs e Kanban board (GitHub Projects) | MVP |
 | Representação | Modelagem visual | Discord e Figma  | prototipagem de baixa fidelidade |
 | Prototipagem | Individual ou pareado | Discord e Figma | Protótipos de media/alta fidelidade |
 | Sprint de Desenvolvimento | Scrum | Kanban board (Git Projects) | Funcionalidades |
 | Teste e Validação | Teste contínuo e iterativo | Ferramentas de CI/CD | Relatório de testes |
 | Verificação e Validação | Sessões de validação com stakeholders | Teams | Levantamento de pontos fortes e aspectos de melhorias da equipe |
-| Organização e Atualização | Gerenciamento de requisitos | Discord, Kanban board (Git Projects) e Goggle doc  | Backlog de requisitos atualizado |
+| Organização e Atualização | Gerenciamento de requisitos | Discord, Kanban board (Git Projects) e Google Docs  | Backlog de requisitos atualizado |
 | Revisão e Retrospectiva | Cerimônia do scrum | Discord e WhatsApp | Feedback e Ajustes no Produto |
 | Lançamento e Implementação | Estratégias de lançamento RAD | Ferramentas de build automatizado | Aplicativo mobile (APK) |
