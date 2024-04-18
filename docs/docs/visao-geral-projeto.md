@@ -69,6 +69,6 @@ Acontecerá o replanejamento do projeto caso ocorra:
   exigir um replanejamento para garantir que o projeto ainda esteja alinhado
   com as necessidades do cliente.
 - Mudanças no Escopo do Projeto: Se novos requisitos ou funcionalidades forem
-  adicionados ao escopo do projeto, isso pode impactar os prazos. Exigindo um
-  replanejamento para acomodar essas mudanças;
+  adicionados ao escopo do projeto, isso pode impactar os prazos, exigindo um
+  replanejamento para acomodar essas mudanças.
 - Evasão de membros da equipe.
