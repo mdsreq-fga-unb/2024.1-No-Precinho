@@ -58,8 +58,17 @@ qualidade ao longo do projeto.
 | Requisitos não viáveis | Desejos do cliente             | Baixa         | Reuniões com o cliente        |
 
 ## 🔗 Critérios de Replanejamento
+
 Acontecerá o replanejamento do projeto caso ocorra:
-- Não cumprimento dos prazos: Se houver repetidos casos de não cumprimento dos prazos estabelecidos para entregas de tarefas ou marcos importantes do projeto, isso pode indicar a necessidade de replanejamento.
-- Grandes alterações nos requisitos e desejos do cliente;: Se houver mudanças significativas nos requisitos ou nas expectativas do cliente, isso pode exigir um replanejamento para garantir que o projeto ainda esteja alinhado com as necessidades do cliente.
-- Mudanças no Escopo do Projeto: Se novos requisitos ou funcionalidades forem adicionados ao escopo do projeto, isso pode impactar os prazos. Exigindo um replanejamento para acomodar essas mudanças;
+
+- Não cumprimento dos prazos: Se houver repetidos casos de não cumprimento dos
+  prazos estabelecidos para entregas de tarefas ou marcos importantes do
+  projeto, isso pode indicar a necessidade de replanejamento.
+- Grandes alterações nos requisitos e desejos do cliente: se houver mudanças
+  significativas nos requisitos ou nas expectativas do cliente, isso pode
+  exigir um replanejamento para garantir que o projeto ainda esteja alinhado
+  com as necessidades do cliente.
+- Mudanças no Escopo do Projeto: Se novos requisitos ou funcionalidades forem
+  adicionados ao escopo do projeto, isso pode impactar os prazos. Exigindo um
+  replanejamento para acomodar essas mudanças;
 - Evasão de membros da equipe.
