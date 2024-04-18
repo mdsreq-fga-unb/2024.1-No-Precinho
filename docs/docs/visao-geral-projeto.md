@@ -44,7 +44,7 @@ qualidade ao longo do projeto.
 | Comunicar situação do projeto | Equipe do Projeto e Professor | Semanal               | Ata da reunião e Relatório de Situação do Projeto                                                                                |
 | Abertura de Sprint            | Equipe do Projeto             | Semanal               | Sprint                                                                                                                           |
 | Alinhamento individual        | Equipe do Projeto             | Duas vezes por semana | Nenhum artefato, mas a equipe deve estar mais alinhada sobre o status das tarefas de cada pessoa do grupo                        |
-| Fechamento de Sprint          | Equipe do Projeto e Cliente   | Semanal               | Novas funcionalidades, Feedbacks do Cliente, Atualização do Backlog e Lista de Riscos, Insights da equipe para a próxima String  |
+| Fechamento de Sprint          | Equipe do Projeto e Cliente   | Semanal               | Novas funcionalidades, Feedbacks do Cliente, Atualização do Backlog e Lista de Riscos, Insights da equipe para a próxima sprint  |
 
 ## ⚠️ Gerenciamento de Riscos
 
