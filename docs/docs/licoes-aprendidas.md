@@ -4,19 +4,16 @@
 
 ### Gestão de Equipe e Coordenação de Tarefas
 
-Durante o desenvolvimento do projeto, a equipe adotou práticas eficazes de gestão e colaboração, garantindo um bom andamento das atividades e entregas dentro dos prazos estabelecidos.
+Durante o desenvolvimento do projeto, a equipe adotou práticas eficazes de gestão e colaboração, garantindo um bom andamento das atividades e entregas dentro dos prazos estabelecidos aprendendo assim a gestão de Equipe e Coordenação de Tarefas.
 
-### Reuniões e Definição de Horários
+### Processos e Ciclos de Vida
 
-O grupo realizou reuniões periódicas para discutir o progresso do projeto, compartilhar ideias e tomar decisões importantes. Miguel, como líder designado, desempenhou um papel crucial na organização dessas reuniões, garantindo que fossem agendadas em horários propícios para todos os membros da equipe. Isso possibilitou a participação ativa de todos e promoveu uma comunicação eficaz dentro do grupo.
+Através da aula do professor e do material de estudo, aprendemos sobre diversos processos de desenvolvimento e ciclos de vida, o que nos ajudou também em escolher a melhor maneira de guiar nosso projeto.
 
-### Atribuição de Tarefas
+### Gestão de Pessoas
 
-Miguel demonstrou habilidades de liderança ao atribuir tarefas de forma equilibrada entre os membros da equipe, levando em consideração as habilidades individuais e a carga de trabalho de cada um. Isso contribuiu para uma distribuição eficiente das responsabilidades e para o cumprimento dos prazos estabelecidos para as entregas.
+Através de suas dinâmicas e da formação de grupos de maneira aleatória, o professor nos levou a conhecer novas pessoas e a compreender que, como ninguém é igual, a cada experiência aprendemos a conviver uns com os outros.
 
-### Espaço de Fala e Compartilhamento de Ideias
-
-O grupo valorizou a criação de um ambiente colaborativo, onde todos os membros se sentiam à vontade para compartilhar suas ideias e contribuir com o desenvolvimento do projeto. Miguel incentivou ativamente o espaço de fala durante as reuniões, garantindo que todas as vozes fossem ouvidas e que as melhores soluções fossem exploradas em conjunto.
 
 ### Conclusão
 
