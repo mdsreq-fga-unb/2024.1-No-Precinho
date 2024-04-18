@@ -2,7 +2,7 @@
 
 Bem-vindo ao GitPages para documentação do projeto "No Precinho" da disciplina "Requisitos de Software" na Universidade de Brasília - FGA, referente ao semestre 2024.1.
 
-<a href="https://www.youtube.com/"> Link para a apresentação da missão 1</a>
+<a href="https://youtu.be/t5A6tq2jlvE"> Link para a apresentação da missão 1</a>
 
 
 <center>
