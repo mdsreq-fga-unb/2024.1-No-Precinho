@@ -22,6 +22,37 @@ A metodologia escolhida é uma combinação de **Scrum** com **Rapid Application
 - **Verificação e Validação:** Requisitos são verificados e validados para assegurar sua corretude e alinhamento com as necessidades do negócio.
 - **Organização e Atualização:** Os requisitos são continuamente organizados e atualizados para refletir quaisquer mudanças ou novos entendimentos.
 
+### Atividades de Engenharia de Requisitos no Processo de Desenvolvimento de Software:
+
+#### Fase Inicial:
+
+Elicitação e Descoberta: Logo no início do projeto, esta atividade é conduzida para coletar requisitos básicos e entender as necessidades dos stakeholders. Esta fase envolverá entrevistas, sessões de brainstorming e discussões em equipe para elucidar a visão do produto.
+
+Análise e Consenso: Depois de elicitados, os requisitos são analisados para identificar prioridades e validar viabilidade. A equipe chega a um consenso sobre quais requisitos são essenciais para o MVP (Minimum Viable Product).
+
+#### Sprints de Desenvolvimento:
+
+Representação: Durante as primeiras sprints, os requisitos elicitados são convertidos em modelos visuais, como diagramas, wireframes e protótipos de baixa fidelidade, usando ferramentas como Figma.
+
+Prototipagem: Nas primeiras fases de desenvolvimento, os requisitos são traduzidos em protótipos interativos, permitindo feedback rápido e ajustes contínuos.
+
+Sprint Planning e Daily: Em cada sprint, a equipe revisará o backlog de requisitos para definir as tarefas a serem realizadas e discutir o progresso diário, garantindo que todos estejam alinhados com os objetivos do sprint.
+
+Revisão de Sprint e Retrospectiva: Ao final de cada sprint, a equipe realiza uma revisão para verificar o progresso e receber feedback dos stakeholders. Isso permite ajustar e refinar os requisitos conforme necessário para a próxima iteração.
+
+#### Fase de Testes e Validação:
+
+Teste e Validação: Durante esta fase, os requisitos são testados quanto à conformidade e usabilidade. As atividades de verificação incluem testes contínuos para garantir que o produto atenda aos requisitos definidos.
+
+Verificação e Validação: Esta atividade ocorre em paralelo aos testes, garantindo que os requisitos sejam válidos, coerentes e atendam às expectativas do cliente. Sessões de validação com os stakeholders também ajudam a coletar feedback e identificar áreas de melhoria.
+
+#### Fase de Organização e Atualização:
+
+Organização e Atualização: À medida que o projeto avança, os requisitos são revisados e atualizados para refletir mudanças ou novos insights. Esta atividade é contínua, garantindo que o backlog esteja sempre alinhado com as necessidades do projeto.
+
+#### Fase de Lançamento e Implementação:
+
+Revisão Final e Implementação: Antes do lançamento final, a equipe revisará todos os requisitos para garantir que estão completos e corretos. A fase de implementação considera todas as atividades de engenharia de requisitos para assegurar um lançamento correto do produto.
 
 ## Atividades
 
